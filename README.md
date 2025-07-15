@@ -1,4 +1,4 @@
-# Allocation Stock Manager
+# Warehouse Management System (WMS)
 
 This project implements a **Warehouse Management System (WMS)** focused on **stock allocation, order cancellation, and SKU quantity correction**, designed using **Clean Architecture**, **DDD principles**, and **SOLID** rules.
 
