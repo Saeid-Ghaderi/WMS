@@ -1,0 +1,11 @@
+C:\Users\Asus\Desktop\AllocationStockManager\StockAllocation.Domain\bin\Debug\net9.0\StockAllocation.Domain.deps.json
+C:\Users\Asus\Desktop\AllocationStockManager\StockAllocation.Domain\bin\Debug\net9.0\StockAllocation.Domain.dll
+C:\Users\Asus\Desktop\AllocationStockManager\StockAllocation.Domain\bin\Debug\net9.0\StockAllocation.Domain.pdb
+C:\Users\Asus\Desktop\AllocationStockManager\StockAllocation.Domain\obj\Debug\net9.0\StockAllocation.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\AllocationStockManager\StockAllocation.Domain\obj\Debug\net9.0\StockAllocation.Domain.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\AllocationStockManager\StockAllocation.Domain\obj\Debug\net9.0\StockAllocation.Domain.AssemblyInfo.cs
+C:\Users\Asus\Desktop\AllocationStockManager\StockAllocation.Domain\obj\Debug\net9.0\StockAllocation.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\AllocationStockManager\StockAllocation.Domain\obj\Debug\net9.0\StockAllocation.Domain.dll
+C:\Users\Asus\Desktop\AllocationStockManager\StockAllocation.Domain\obj\Debug\net9.0\refint\StockAllocation.Domain.dll
+C:\Users\Asus\Desktop\AllocationStockManager\StockAllocation.Domain\obj\Debug\net9.0\StockAllocation.Domain.pdb
+C:\Users\Asus\Desktop\AllocationStockManager\StockAllocation.Domain\obj\Debug\net9.0\ref\StockAllocation.Domain.dll

@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\AllocationStockManager\StockAllocation.Application\bin\Debug\net8.0\StockAllocation.Application.deps.json
+C:\Users\Asus\Desktop\AllocationStockManager\StockAllocation.Application\bin\Debug\net8.0\StockAllocation.Application.dll
+C:\Users\Asus\Desktop\AllocationStockManager\StockAllocation.Application\bin\Debug\net8.0\StockAllocation.Application.pdb
+C:\Users\Asus\Desktop\AllocationStockManager\StockAllocation.Application\bin\Debug\net8.0\StockAllocation.Domain.dll
+C:\Users\Asus\Desktop\AllocationStockManager\StockAllocation.Application\bin\Debug\net8.0\StockAllocation.Domain.pdb
+C:\Users\Asus\Desktop\AllocationStockManager\StockAllocation.Application\obj\Debug\net8.0\StockAllocation.Application.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\AllocationStockManager\StockAllocation.Application\obj\Debug\net8.0\StockAllocation.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\AllocationStockManager\StockAllocation.Application\obj\Debug\net8.0\StockAllocation.Application.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\AllocationStockManager\StockAllocation.Application\obj\Debug\net8.0\StockAllocation.Application.AssemblyInfo.cs
+C:\Users\Asus\Desktop\AllocationStockManager\StockAllocation.Application\obj\Debug\net8.0\StockAllocation.Application.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\AllocationStockManager\StockAllocation.Application\obj\Debug\net8.0\StockAll.6F4ADAB1.Up2Date
+C:\Users\Asus\Desktop\AllocationStockManager\StockAllocation.Application\obj\Debug\net8.0\StockAllocation.Application.dll
+C:\Users\Asus\Desktop\AllocationStockManager\StockAllocation.Application\obj\Debug\net8.0\refint\StockAllocation.Application.dll
+C:\Users\Asus\Desktop\AllocationStockManager\StockAllocation.Application\obj\Debug\net8.0\StockAllocation.Application.pdb
+C:\Users\Asus\Desktop\AllocationStockManager\StockAllocation.Application\obj\Debug\net8.0\ref\StockAllocation.Application.dll

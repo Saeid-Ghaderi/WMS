@@ -1,0 +1,5 @@
+C:\Users\Asus\Desktop\AllocationStockManager\StockAllocation.Infrastructure\obj\Debug\net9.0\StockAllocation.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\AllocationStockManager\StockAllocation.Infrastructure\obj\Debug\net9.0\StockAllocation.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\AllocationStockManager\StockAllocation.Infrastructure\obj\Debug\net9.0\StockAllocation.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\AllocationStockManager\StockAllocation.Infrastructure\obj\Debug\net9.0\StockAllocation.Infrastructure.AssemblyInfo.cs
+C:\Users\Asus\Desktop\AllocationStockManager\StockAllocation.Infrastructure\obj\Debug\net9.0\StockAllocation.Infrastructure.csproj.CoreCompileInputs.cache
